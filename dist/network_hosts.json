@@ -1,0 +1,491 @@
+{
+  "00:1B:21:6C:DD:7D": {
+    "ip": "192.168.1.1",
+    "mac": "00:1B:21:6C:DD:7D",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:21:57",
+    "last_seen": "2026-10-22 11:10:04",
+    "services": {
+      "22": "SSH",
+      "53": "DNS",
+      "80": "HTTP"
+    },
+    "scan_count": 4
+  },
+  "18:03:73:3D:3E:FC": {
+    "ip": "192.168.1.2",
+    "mac": "18:03:73:3D:3E:FC",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:22:03",
+    "last_seen": "2026-10-22 11:10:10",
+    "services": {
+      "22": "SSH",
+      "53": "DNS",
+      "8080": "HTTP-Alt"
+    },
+    "scan_count": 4
+  },
+  "90:B1:1C:8C:23:3B": {
+    "ip": "192.168.1.5",
+    "mac": "90:B1:1C:8C:23:3B",
+    "hostname": "TRUENAS",
+    "first_seen": "2026-10-18 23:22:09",
+    "last_seen": "2026-10-22 11:10:13",
+    "services": {
+      "22": "SSH",
+      "139": "NetBIOS",
+      "445": "SMB"
+    },
+    "scan_count": 4
+  },
+  "54:E0:32:80:D9:81": {
+    "ip": "192.168.1.6",
+    "mac": "54:E0:32:80:D9:81",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:22:16",
+    "last_seen": "2026-10-22 11:10:18",
+    "services": {
+      "22": "SSH",
+      "23": "Telnet",
+      "80": "HTTP",
+      "443": "HTTPS"
+    },
+    "scan_count": 4
+  },
+  "70:85:C2:19:74:F3": {
+    "ip": "192.168.1.10",
+    "mac": "70:85:C2:19:74:F3",
+    "hostname": "FileServer",
+    "first_seen": "2026-10-18 23:22:22",
+    "last_seen": "2026-10-22 11:10:24",
+    "services": {
+      "21": "FTP",
+      "139": "NetBIOS",
+      "445": "SMB",
+      "3389": "RDP",
+      "8080": "HTTP-Alt"
+    },
+    "scan_count": 4
+  },
+  "EC:71:DB:BE:FC:71": {
+    "ip": "192.168.1.60",
+    "mac": "EC:71:DB:BE:FC:71",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:22:28",
+    "last_seen": "2026-10-22 11:10:31",
+    "services": {
+      "80": "HTTP",
+      "443": "HTTPS"
+    },
+    "scan_count": 4
+  },
+  "EC:71:DB:B8:1A:79": {
+    "ip": "192.168.1.61",
+    "mac": "EC:71:DB:B8:1A:79",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:22:35",
+    "last_seen": "2026-10-22 11:10:37",
+    "services": {
+      "80": "HTTP",
+      "443": "HTTPS"
+    },
+    "scan_count": 4
+  },
+  "3C:7A:AA:1C:60:EA": {
+    "ip": "192.168.1.62",
+    "mac": "3C:7A:AA:1C:60:EA",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:22:41",
+    "last_seen": "2026-10-22 11:10:43",
+    "services": {
+      "80": "HTTP",
+      "443": "HTTPS"
+    },
+    "scan_count": 4
+  },
+  "50:8A:06:7E:E5:49": {
+    "ip": "192.168.1.101",
+    "mac": "50:8A:06:7E:E5:49",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:22:48",
+    "last_seen": "2026-10-22 11:10:49",
+    "services": {},
+    "scan_count": 2
+  },
+  "84:E3:42:23:6C:43": {
+    "ip": "192.168.1.102",
+    "mac": "84:E3:42:23:6C:43",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:22:55",
+    "last_seen": "2026-10-22 11:10:56",
+    "services": {},
+    "scan_count": 2
+  },
+  "18:69:D8:E9:F8:50": {
+    "ip": "192.168.1.104",
+    "mac": "18:69:D8:E9:F8:50",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:23:01",
+    "last_seen": "2026-10-22 11:11:02",
+    "services": {},
+    "scan_count": 2
+  },
+  "7C:F6:66:6A:61:93": {
+    "ip": "192.168.1.105",
+    "mac": "7C:F6:66:6A:61:93",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:23:08",
+    "last_seen": "2026-10-22 11:11:08",
+    "services": {},
+    "scan_count": 2
+  },
+  "48:B0:2D:64:4F:7C": {
+    "ip": "192.168.1.106",
+    "mac": "48:B0:2D:64:4F:7C",
+    "hostname": "SHIELD",
+    "first_seen": "2026-10-18 23:23:14",
+    "last_seen": "2026-10-22 11:11:11",
+    "services": {
+      "139": "NetBIOS",
+      "445": "SMB"
+    },
+    "scan_count": 4
+  },
+  "0C:F4:D5:33:AD:F0": {
+    "ip": "192.168.1.107",
+    "mac": "0C:F4:D5:33:AD:F0",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:23:21",
+    "last_seen": "2026-10-22 11:11:17",
+    "services": {
+      "22": "SSH",
+      "80": "HTTP",
+      "443": "HTTPS"
+    },
+    "scan_count": 4
+  },
+  "0C:F4:D5:33:BC:10": {
+    "ip": "192.168.1.109",
+    "mac": "0C:F4:D5:33:BC:10",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:23:27",
+    "last_seen": "2026-10-22 11:11:23",
+    "services": {
+      "22": "SSH",
+      "443": "HTTPS"
+    },
+    "scan_count": 4
+  },
+  "5C:AA:FD:27:3E:34": {
+    "ip": "192.168.1.110",
+    "mac": "5C:AA:FD:27:3E:34",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:23:34",
+    "last_seen": "2026-10-22 11:11:29",
+    "services": {},
+    "scan_count": 2
+  },
+  "E4:F0:42:65:95:F6": {
+    "ip": "192.168.1.111",
+    "mac": "E4:F0:42:65:95:F6",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:23:41",
+    "last_seen": "2026-10-22 11:11:36",
+    "services": {},
+    "scan_count": 2
+  },
+  "84:E3:42:E2:5E:C6": {
+    "ip": "192.168.1.112",
+    "mac": "84:E3:42:E2:5E:C6",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:23:47",
+    "last_seen": "2026-10-22 11:11:42",
+    "services": {},
+    "scan_count": 2
+  },
+  "14:C1:4E:7A:F6:35": {
+    "ip": "192.168.1.113",
+    "mac": "14:C1:4E:7A:F6:35",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:23:54",
+    "last_seen": "2026-10-22 11:11:48",
+    "services": {},
+    "scan_count": 2
+  },
+  "0C:F4:D5:33:94:80": {
+    "ip": "192.168.1.115",
+    "mac": "0C:F4:D5:33:94:80",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:24:00",
+    "last_seen": "2026-10-22 11:11:55",
+    "services": {
+      "22": "SSH",
+      "443": "HTTPS"
+    },
+    "scan_count": 4
+  },
+  "EE:4A:B0:D1:A5:97": {
+    "ip": "192.168.1.118",
+    "mac": "EE:4A:B0:D1:A5:97",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:24:07",
+    "last_seen": "2026-10-22 11:12:01",
+    "services": {},
+    "scan_count": 2
+  },
+  "00:0E:58:64:BF:24": {
+    "ip": "192.168.1.124",
+    "mac": "00:0E:58:64:BF:24",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:24:14",
+    "last_seen": "2026-10-22 11:12:07",
+    "services": {},
+    "scan_count": 2
+  },
+  "74:83:C2:93:F1:90": {
+    "ip": "192.168.1.126",
+    "mac": "74:83:C2:93:F1:90",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:24:20",
+    "last_seen": "2026-10-22 11:12:14",
+    "services": {
+      "22": "SSH"
+    },
+    "scan_count": 4
+  },
+  "B8:E9:37:28:BE:18": {
+    "ip": "192.168.1.128",
+    "mac": "B8:E9:37:28:BE:18",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:24:27",
+    "last_seen": "2026-10-22 11:12:20",
+    "services": {},
+    "scan_count": 2
+  },
+  "98:90:96:C0:6C:9E": {
+    "ip": "192.168.1.138",
+    "mac": "98:90:96:C0:6C:9E",
+    "hostname": "NASTEMP",
+    "first_seen": "2026-10-18 23:24:29",
+    "last_seen": "2026-10-22 11:12:22",
+    "services": {
+      "22": "SSH",
+      "80": "HTTP",
+      "139": "NetBIOS",
+      "443": "HTTPS",
+      "445": "SMB"
+    },
+    "scan_count": 4
+  },
+  "FC:67:1F:9A:F2:7F": {
+    "ip": "192.168.1.139",
+    "mac": "FC:67:1F:9A:F2:7F",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:24:36",
+    "last_seen": "2026-10-22 11:12:28",
+    "services": {},
+    "scan_count": 2
+  },
+  "18:7F:88:50:7E:AE": {
+    "ip": "192.168.1.140",
+    "mac": "18:7F:88:50:7E:AE",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:24:43",
+    "last_seen": "2026-10-22 11:12:35",
+    "services": {},
+    "scan_count": 2
+  },
+  "50:8A:06:F2:CF:46": {
+    "ip": "192.168.1.141",
+    "mac": "50:8A:06:F2:CF:46",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:24:49",
+    "last_seen": "2026-10-22 11:12:41",
+    "services": {},
+    "scan_count": 2
+  },
+  "84:E3:42:E2:4B:C5": {
+    "ip": "192.168.1.142",
+    "mac": "84:E3:42:E2:4B:C5",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:24:56",
+    "last_seen": "2026-10-22 11:12:47",
+    "services": {},
+    "scan_count": 2
+  },
+  "7C:F6:66:3E:8C:F4": {
+    "ip": "192.168.1.143",
+    "mac": "7C:F6:66:3E:8C:F4",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:25:03",
+    "last_seen": "2026-10-22 11:12:54",
+    "services": {},
+    "scan_count": 2
+  },
+  "90:48:6C:7E:D7:58": {
+    "ip": "192.168.1.147",
+    "mac": "90:48:6C:7E:D7:58",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:25:09",
+    "last_seen": "2026-10-22 11:13:00",
+    "services": {},
+    "scan_count": 2
+  },
+  "50:8A:06:7E:EC:D8": {
+    "ip": "192.168.1.151",
+    "mac": "50:8A:06:7E:EC:D8",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:25:16",
+    "last_seen": "2026-10-22 11:13:07",
+    "services": {},
+    "scan_count": 2
+  },
+  "74:83:C2:96:1C:4D": {
+    "ip": "192.168.1.153",
+    "mac": "74:83:C2:96:1C:4D",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:25:23",
+    "last_seen": "2026-10-22 11:13:13",
+    "services": {
+      "22": "SSH"
+    },
+    "scan_count": 4
+  },
+  "70:89:76:7F:28:68": {
+    "ip": "192.168.1.156",
+    "mac": "70:89:76:7F:28:68",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:25:29",
+    "last_seen": "2026-10-22 11:13:19",
+    "services": {},
+    "scan_count": 2
+  },
+  "78:BD:BC:22:54:CA": {
+    "ip": "192.168.1.165",
+    "mac": "78:BD:BC:22:54:CA",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:25:36",
+    "last_seen": "2026-10-18 23:31:25",
+    "services": {
+      "8080": "HTTP-Alt"
+    },
+    "scan_count": 2
+  },
+  "E4:3A:6E:29:7F:44": {
+    "ip": "192.168.1.185",
+    "mac": "E4:3A:6E:29:7F:44",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:25:42",
+    "last_seen": "2026-10-22 11:13:25",
+    "services": {},
+    "scan_count": 2
+  },
+  "D8:5E:D3:AA:71:AB": {
+    "ip": "192.168.1.187",
+    "mac": "D8:5E:D3:AA:71:AB",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:25:49",
+    "last_seen": "2026-10-22 11:13:32",
+    "services": {
+      "22": "SSH"
+    },
+    "scan_count": 4
+  },
+  "7C:F0:E5:51:48:3F": {
+    "ip": "192.168.1.204",
+    "mac": "7C:F0:E5:51:48:3F",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:25:56",
+    "last_seen": "2026-10-22 11:13:43",
+    "services": {},
+    "scan_count": 2
+  },
+  "B8:E9:37:5B:1E:8A": {
+    "ip": "192.168.1.210",
+    "mac": "B8:E9:37:5B:1E:8A",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:26:02",
+    "last_seen": "2026-10-22 11:13:49",
+    "services": {},
+    "scan_count": 2
+  },
+  "7C:F6:66:3E:53:96": {
+    "ip": "192.168.1.226",
+    "mac": "7C:F6:66:3E:53:96",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:26:09",
+    "last_seen": "2026-10-22 11:14:23",
+    "services": {},
+    "scan_count": 2
+  },
+  "8C:BD:37:8F:2E:C1": {
+    "ip": "192.168.1.235",
+    "mac": "8C:BD:37:8F:2E:C1",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:26:16",
+    "last_seen": "2026-10-22 11:14:30",
+    "services": {
+      "22": "SSH"
+    },
+    "scan_count": 4
+  },
+  "50:8A:06:7E:E2:1A": {
+    "ip": "192.168.1.237",
+    "mac": "50:8A:06:7E:E2:1A",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:26:22",
+    "last_seen": "2026-10-22 11:14:36",
+    "services": {},
+    "scan_count": 2
+  },
+  "22:CD:49:34:D4:21": {
+    "ip": "192.168.1.242",
+    "mac": "22:CD:49:34:D4:21",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:26:29",
+    "last_seen": "2026-10-22 11:14:42",
+    "services": {},
+    "scan_count": 2
+  },
+  "74:83:C2:93:F6:E0": {
+    "ip": "192.168.1.245",
+    "mac": "74:83:C2:93:F6:E0",
+    "hostname": "Unknown Device",
+    "first_seen": "2026-10-18 23:26:35",
+    "last_seen": "2026-10-22 11:14:49",
+    "services": {
+      "22": "SSH"
+    },
+    "scan_count": 4
+  },
+  "DYNAMIC-168111": {
+    "ip": "192.168.1.11",
+    "mac": "DYNAMIC-168111",
+    "hostname": "silence.mwbreur.eu",
+    "first_seen": "2026-10-18 23:31:18",
+    "last_seen": "2026-10-22 11:09:51",
+    "services": {
+      "139": "NetBIOS",
+      "445": "SMB"
+    },
+    "scan_count": 2
+  },
+  "A4:6C:F1:BF:D5:0E": {
+    "ip": "192.168.1.223",
+    "mac": "A4:6C:F1:BF:D5:0E",
+    "hostname": "Unknown Host",
+    "first_seen": "2026-10-22 11:14:00",
+    "last_seen": "2026-10-22 11:14:17",
+    "services": {},
+    "scan_count": 2
+  },
+  "2E:5D:50:FB:E6:CB": {
+    "ip": "192.168.1.220",
+    "mac": "2E:5D:50:FB:E6:CB",
+    "hostname": "Unknown Host",
+    "first_seen": "2026-10-22 11:14:06",
+    "last_seen": "2026-10-22 11:14:06",
+    "services": {},
+    "scan_count": 1
+  }
+}
